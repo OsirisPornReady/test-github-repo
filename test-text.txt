@@ -1,1 +1,2 @@
 just one line text by local
+second line by remote
